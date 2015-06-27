@@ -1,6 +1,6 @@
 __author__ = 'spedmonkey'
 #best commit ever
-#best shit ev0r
+
 import json
 import datetime
 myList=[]
